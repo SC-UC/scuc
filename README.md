@@ -6,6 +6,8 @@
 * Apache Tomcat
 
 # 서비스 아키텍처
+[ 도표 추가 ]
+
 * frontend: [WAS](https://github.com/SC-UC/scuc)
 * backend: [api](https://github.com/SC-UC/scuc-api), [crawler server](https://github.com/SC-UC/scuc-crawler)
 
