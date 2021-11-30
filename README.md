@@ -8,8 +8,9 @@
 # 서비스 아키텍처
 [ 도표 추가 ]
 
+* reverse proxy: nginx
 * frontend: [WAS](https://github.com/SC-UC/scuc)
-* backend: [api](https://github.com/SC-UC/scuc-api), [crawler server](https://github.com/SC-UC/scuc-crawler)
+* backend: [api](https://github.com/SC-UC/scuc-api), [crawler](https://github.com/SC-UC/scuc-crawler)
 
 # API 명세서
 ## api server
