@@ -10,15 +10,10 @@
 
 * reverse proxy: nginx
 * frontend: [WAS](https://github.com/SC-UC/scuc)
-* backend: [api](https://github.com/SC-UC/scuc-api), [crawler](https://github.com/SC-UC/scuc-crawler)
+* backend: [api](https://github.com/SC-UC/scuc-api), db, [crawler](https://github.com/SC-UC/scuc-crawler)
 
-# API 명세서
+# API 명세
 ## api server
-|method|URI|description|
-|---|---|---|
-|GET|/sample|샘플|
-
-## crawler server
 |method|URI|description|
 |---|---|---|
 |GET|/sample|샘플|
