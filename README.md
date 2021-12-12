@@ -8,6 +8,7 @@
 # 서비스 아키텍처
 [ 도표 추가 ]
 
+* dns: Cloudflare
 * reverse proxy: nginx
 * frontend: [WAS](https://github.com/SC-UC/scuc)
 * backend: [api](https://github.com/SC-UC/scuc-api), db, [crawler](https://github.com/SC-UC/scuc-crawler)
